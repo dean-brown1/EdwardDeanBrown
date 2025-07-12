@@ -11,3 +11,5 @@ I build tools that give AI systems memory and structure — like Dadlas, a valid
 
  Writing: [Medium Articles](https://medium.com/@yourusername)  
  Contact me via [LinkedIn](https://linkedin.com/in/yourhandle)
+
+LLMs don't need more context — they need better memory
